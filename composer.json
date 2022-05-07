@@ -1,0 +1,22 @@
+{
+    "name": "luanardev/livewire-ui",
+    "homepage": "https://github.com/luanardev/livewire-ui",
+    "description": "Laravel Livewire Component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Simpokolwe",
+            "email": "bsimpokolwe@luanar.ac.mw"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.0",
+        "livewire/livewire": "^2.0",
+		"luanardev/livewire-alert": "^1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luanardev\\LivewireUI\\": "src"
+        }
+    }
+}
