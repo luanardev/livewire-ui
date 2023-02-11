@@ -10,9 +10,8 @@
         }
     ],
     "require": {
-        "laravel/framework": "^8.0",
         "livewire/livewire": "^2.0",
-		"luanardev/livewire-alert": "^1.0.0"
+		"luanardev/livewire-alert": "^1.0"
     },
     "autoload": {
         "psr-4": {
